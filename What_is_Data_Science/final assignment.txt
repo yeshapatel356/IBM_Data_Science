@@ -1,0 +1,19 @@
+1)Based on the videos and the reading material, how would you define a data scientist and data science? (3 marks)
+After reviewing the material I consider that data scientist is someone who finds solution to a problem through analyzing large or small data by appropriate tools and then tell stories to communicate their finding to the relevant stakeholders. Data scientist is a new profession that today is considered key in the world of technologies.
+
+2)As discussed in the videos and the reading material, data science can be applied to problems across different industries. What industry are you passionate about and would like to pursue a data science career in? (1 mark)
+I consider that data science is the field of study that combines domain expertise, programming skills, and knowledge of mathematics and statistics to extract meaningful insights from data. Data science practitioners apply machine learning algorithms to numbers, text, images, video, audio,etc.  In turn, these systems generate insights which analysts and business users can translate into tangible business value.
+As mentioned and previously discussed in the reading materials, there are many different domains in which you can pursue Data Science in.I personally find my interest towards  Education. Data Science in Education will helps to have central control over the complete student data for evaluating the performance of the students and take suitable actions. This analysis will help to make the changes that will benefit the students and will help them in all possible ways to solve their problems.
+For example, if the performance of a student is becoming poor day by day then, Big data and Data Science in Education can help teachers to identify the reason behind that and help him overcome his problems.
+
+3)Based on the videos and the reading material, what are the ten main components of a report that would be delivered at the end of a data science project? (5 marks)
+Cover page
+Table of contents
+Introduction
+Methodology
+Results
+Conclusions
+Reference
+Discussion
+Acknowledgement
+Appendices
